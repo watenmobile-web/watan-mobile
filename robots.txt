@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# ملفات غير مخصصة للنشر
+Disallow: /index.original.html
+Disallow: /check_html.py
+
+# خريطة الموقع (GitHub Pages يخدم المستودع من مسار فرعي)
+Sitemap: https://watenmobile-web.github.io/watan-mobile/sitemap.xml

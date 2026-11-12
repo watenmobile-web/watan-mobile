@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- استبدل YOUR-DOMAIN بالدومين الرسمي قبل النشر -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://watenmobile-web.github.io/watan-mobile/</loc>
+        <lastmod>2026-11-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://watenmobile-web.github.io/watan-mobile/logo-512.png</image:loc>
+            <image:title>وطن موبايل - متجر هواتف وصيانة وتوصيل في الحصبة، صنعاء</image:title>
+        </image:image>
+    </url>
+</urlset>
